@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    max-width: 600px;
+    margin: auto;
+}
+
+.btn {
+    min-width: 120px;
+}
